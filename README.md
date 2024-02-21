@@ -1,6 +1,6 @@
 # chrome-ext-vanilla-js
 
-This is repo for easy chrome extension deployment using webpack and vanilla js. 
+This is a boilerplate repo for easy chrome extension development using vanilla js and webpack. 
 
 
 Usage instructions:

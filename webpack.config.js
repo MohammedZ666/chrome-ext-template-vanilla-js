@@ -28,7 +28,7 @@ module.exports = {
     plugins:
         [
             new HtmlWebpackPlugin({
-                title: 'BufferBetter',
+                title: 'chrome-ext-vanilla-js',
                 template: "static/popup.html",
                 chunks: ['popup']
             }),
