@@ -1,6 +1,6 @@
 {
   "name": "chrome-ext-vanilla-js",
-  "version": "1.0.0.",
+  "version": "1.0.0",
   "description": "Vanilla js boilerplate for chrome extension development with wepback",
   "permissions": [
     "storage",
